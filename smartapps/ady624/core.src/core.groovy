@@ -182,7 +182,7 @@ def pageViewVariable(params) {
 			section() {
 				paragraph "Sorry, variable not found.", required: false
 			}
-		}
+		core.groovy}
 	}
 }
 
